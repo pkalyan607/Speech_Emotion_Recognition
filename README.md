@@ -24,4 +24,4 @@ tensorflow
 librosa
 Neural Network
 LSTM Network
-Accuracy: 67.00
+Accuracy: 99.89
